@@ -4,7 +4,7 @@
   <p>Graduanda em ADS e técnica em Redes pelo IF Baiano (Catu-BA). Crio sistemas web e mobile para problemas reais —<br>da gestão de microempresas à saúde animal, da gestão costeira à educação inclusiva.</p>
   <p>🔎 <b>Aberta a oportunidades em inovação e desenvolvimento de produtos.</b></p>
 
-  <a href="https://beatrizreisdev-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://beatrizreisdev-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/abeatrizreis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:beatrizreisdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -93,7 +93,7 @@ Um agente de IA que transforma texto livre em cartões prontos no Trello. Pode s
     <td><b>IA</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
     </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ Um agente de IA que transforma texto livre em cartões prontos no Trello. Pode s
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-      <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+      <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square" alt="Cisco CCNA" />
       <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
     </td>
   </tr>
@@ -111,7 +111,7 @@ Um agente de IA que transforma texto livre em cartões prontos no Trello. Pode s
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Scrum_&_Kanban-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Scrum & Kanban" />
+      <img src="https://img.shields.io/badge/Scrum_%26_Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Scrum & Kanban" />
     </td>
   </tr>
 </table>
