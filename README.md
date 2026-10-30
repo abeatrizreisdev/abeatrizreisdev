@@ -102,7 +102,7 @@ Um agente de IA que transforma texto livre em cartões prontos no Trello. Pode s
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-      <img src="https://img.shields.io/badge/Scrum-0052CC?style=flat-square" alt="Scrum" />
+      <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square" alt="CCNA" />
       <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
     </td>
   </tr>
@@ -111,6 +111,7 @@ Um agente de IA que transforma texto livre em cartões prontos no Trello. Pode s
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Scrum-0052CC?style=flat-square" alt="Scrum" />
       <img src="https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Kanban" />
     </td>
   </tr>
